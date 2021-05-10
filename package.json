@@ -19,6 +19,7 @@
     "discord.js": "^12.5.3",
     "dotenv": "^9.0.1",
     "fs": "0.0.1-security",
+    "node-sass": "^6.0.0",
     "nodemon": "^2.0.7"
   },
   "devDependencies": {},
