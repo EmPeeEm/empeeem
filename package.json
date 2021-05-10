@@ -15,5 +15,14 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmPeeEm/empeeem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EmPeeEm/empeeem/issues"
+  },
+  "homepage": "https://github.com/EmPeeEm/empeeem#readme"
 }
